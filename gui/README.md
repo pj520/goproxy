@@ -4,6 +4,7 @@ Based on the proxy platform SDK, the author and many enthusiasts have developed 
 ## Windows
 
 - Official java version, Project Homepage:[goproxy-jui](https://github.com/snail007/goproxy-jui)
+- Official C# version, Project Homepage:[gptool-csharp](https://github.com/snail007/gptool-csharp)
 
 ## Linux
 
@@ -15,7 +16,7 @@ Based on the proxy platform SDK, the author and many enthusiasts have developed 
 
 ## Android
 
-- proxy-go,An unofficial implementation version, the interface is relatively simple, but enough.Download address:[proxy-go](https://github.com/snail007/goproxy-gui-stuff/releases/tag/proxy-go-release)
+- goproxy official plugin of ss . Download address:[ss-plugin-goproxy](https://github.com/snail007/goproxy-ss-plugin-android)
 
 
 ## IOS
